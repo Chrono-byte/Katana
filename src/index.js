@@ -1,5 +1,5 @@
 function main(bool) {
-	console.log("Ha");
+	console.log("No.");
 }
 
 main();
