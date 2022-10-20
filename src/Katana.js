@@ -62,7 +62,7 @@ class Katana {
 	}
 
 	/**
- 		* Writes data to the datastore & overwrites existing data under the same key.
+ 		* Writes data to the datastore & overwrites existing data under the same key
  		* @param {String} data Text to write to the datastore
  		* @param {String} key Key you want to store the data under (MUST ALREADY EXIST)
 		* @returns {void}
@@ -121,7 +121,7 @@ class Katana {
 	}
 
 	/**
- 		* de-encodes a array of numbers into a string
+ 		* Decodes a array of numbers into a string
  		* @param {Array} entry Key you want to delete
 		* @returns {String} Array de-encoded
  	*/
