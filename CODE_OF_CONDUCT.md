@@ -1,5 +1,0 @@
-Top Text
-
-
-
-Bottom Text		
